@@ -1,0 +1,18 @@
+/target/
+WebContent/
+
+#Eclipse files
+.classpath
+.project
+.settings/
+
+#IntelliJ files
+.idea/
+*.iml
+
+#Mac files
+.DS_Store
+
+audit.log
+audit_messages.log
+cmsEntities*
